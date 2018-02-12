@@ -14,6 +14,7 @@
 		],
 		"Enderecos": [{
 			"Codigo": null,
+			"Telefone": "2799999999",
 			"Logradouro": "RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270",
 			"Latitude": "-20.3046115",
 			"Longitude": "-40.2949347",
@@ -209,6 +210,7 @@
 		}],
 		"Enderecos": [{
 			"Codigo": null,
+			"Telefone": "2799999999",
 			"Logradouro": "RUA EUGENIO NETTO, 300 - PRAIA DO CANTO - VITORIA/ES - 29055270",
 			"Latitude": "-20.304045",
 			"Longitude": "-40.2957951",
@@ -350,6 +352,7 @@
 		}],
 		"Enderecos": [{
 				"Codigo": null,
+				"Telefone": "2799999999",
 				"Logradouro": "RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270",
 				"Latitude": "-20.3046115",
 				"Longitude": "-40.2949347",
@@ -457,6 +460,7 @@
 			},
 			{
 				"Codigo": null,
+				"Telefone": "2799999999",
 				"Logradouro": "RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270",
 				"Latitude": "-20.3046115",
 				"Longitude": "-40.2949347",
