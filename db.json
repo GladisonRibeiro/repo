@@ -1,153 +1,9 @@
-[{
-	"Codigo": "004909",
-	"Nome": "LUIZ FERNANDO MAZZINI GOMES",
-	"Enderecos": [{
-		"EnderecoCompleto": "RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270",
-		"Ddd": "27",
-		"Telefone": "21274444",
-		"Localizacao": "http://maps.google.com/?q=RUA EUGENIO NETO 180 PRAIA DO CANTO VITORIA/ES 29055270",
-		"Latitude": -20.3046115,
-		"Longitude": -40.2949347,
-		"Distancia": 53.529179793804445,
-		"Cep": "29055270",
-		"Logradouro": "RUA EUGENIO NETO",
-		"Numero": "180",
-		"Cidade": "VITORIA",
-		"Estado": "ES",
-		"Horarios": [{
-			"Data": "12/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "13/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "14/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "15/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "16/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "17/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "18/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		}]
-	}],
+[
+{
+	"Prestador": {
+		"Codigo": "004909",
+		"Nome": "LUIZ FERNANDO MAZZINI GOMES"
+	},
 	"Especialidades": [{
 		"Codigo": "14",
 		"Nome": "Cirurgia Geral"
@@ -156,727 +12,659 @@
 		"Codigo": "80",
 		"Nome": "Cirurgia Oncologica"
 	}],
-	"RazaoSocial": "LUIZ FERNANDO MAZZINI GOMES"
+	"Enderecos": [{
+		"Codigo": null,
+		"Logradouro": "RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270",
+		"Latitude": "-20.3046115",
+		"Longitude": "-40.2949347",
+		"Agendas": [{
+			"Codigo": null,
+			"Dia": "2018-02-12T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-13T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-14T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-15T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-16T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			}{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-17T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-18T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
+		}]
+	}]
 },
 {
-	"Codigo": "003183",
-	"Nome": "WILSON TADEU SIMOES FERREIRA",
-	"Enderecos": [{
-		"EnderecoCompleto": "RUA MADEIRA DE FREITAS, 175 - PRAIA DO CANTO - VITORIA/ES - 29055320",
-		"Ddd": "27",
-		"Telefone": "32257941",
-		"Localizacao": "http://maps.google.com/?q=RUA MADEIRA DE FREITAS 175 PRAIA DO CANTO VITORIA/ES 29055320",
-		"Latitude": -20.3044155,
-		"Longitude": -40.2958645,
-		"Distancia": 64.21120442357312,
-		"Cep": "29055320",
-		"Logradouro": "RUA MADEIRA DE FREITAS",
-		"Numero": "175",
-		"Cidade": "VITORIA",
-		"Estado": "ES",
-		"Horarios": [{
-			"Data": "12/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "13/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "14/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "15/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "16/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "17/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "18/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		}]
+	"Prestador": {
+		"Codigo": "001925",
+		"Nome": "ROBERTO CASOTTI LORA"
+	},
+	"Especialidades": [{
+		"Codigo": "44",
+		"Nome": "Ortopedia E Traumatologia"
 	}],
+	"Enderecos": [{
+		"Codigo": null,
+		"Logradouro": "RUA EUGENIO NETTO, 300 - PRAIA DO CANTO - VITORIA/ES - 29055270",
+		"Latitude": "-20.304045",
+		"Longitude": "-40.2957951",
+		"Agendas": [{
+			"Codigo": null,
+			"Dia": "2018-02-12T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-13T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
+		},
+		{
+			"Codigo": null,
+			"Dia": "2018-02-14T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
+		}]
+	}]
+},
+{
+	"Prestador": {
+		"Codigo": "003183",
+		"Nome": "WILSON TADEU SIMOES FERREIRA",
+	},
 	"Especialidades": [{
 		"Codigo": "43",
 		"Nome": "Oftalmologia"
 	}],
-	"RazaoSocial": "WILSON TADEU SIMOES FERREIRA"
-},
-{
-	"IdCredenciado": 0,
-	"Codigo": "001925",
-	"Nome": "ROBERTO CASOTTI LORA",
 	"Enderecos": [{
-		"EnderecoCompleto": "RUA EUGENIO NETTO, 300 - PRAIA DO CANTO - VITORIA/ES - 29055270",
-		"Ddd": "27",
-		"Telefone": "32258892",
-		"Localizacao": "http://maps.google.com/?q=RUA EUGENIO NETTO 300 PRAIA DO CANTO VITORIA/ES 29055270",
-		"Latitude": -20.304045,
-		"Longitude": -40.2957951,
-		"Distancia": 93.36128636266879,
-		"Cep": "29055270",
-		"Logradouro": "RUA EUGENIO NETTO",
-		"Numero": "300",
-		"Cidade": "VITORIA",
-		"Estado": "ES",
-		"Horarios": [{
-			"Data": "12/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+		"Codigo": null,
+		"Logradouro": "RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270",
+		"Latitude": "-20.3046115",
+		"Longitude": "-40.2949347",
+		"Agendas": [{
+			"Codigo": null,
+			"Dia": "2018-02-12T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		},
 		{
-			"Data": "13/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+			"Codigo": null,
+			"Dia": "2018-02-13T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		},
 		{
-			"Data": "14/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		}]
-	}],
-	"Especialidades": [{
-		"Codigo": "44",
-		"Nome": "Ortopedia E Traumatologia"
-	}],
-	"Qualificacoes": [{
-		"Codigo": "E",
-		"Nome": "TITULO DE ESPECIALISTA"
-	}],
-	"RazaoSocial": "ROBERTO CASOTTI LORA"
-},
-{
-	"Codigo": "006178",
-	"Nome": "MARCELO STRAUCH SERAFIM",
-	"Enderecos": [{
-		"EnderecoCompleto": "RUA EUGENIO NETO, 300 - PRAIA DO CANTO - VITORIA/ES - 29055270",
-		"Ddd": "27",
-		"Telefone": "32258892",
-		"Localizacao": "http://maps.google.com/?q=RUA EUGENIO NETO 300 PRAIA DO CANTO VITORIA/ES 29055270",
-		"Latitude": -20.304045,
-		"Longitude": -40.2957951,
-		"Distancia": 93.36128636266879,
-		"Cep": "29055270",
-		"Logradouro": "RUA EUGENIO NETO",
-		"Numero": "300",
-		"Cidade": "VITORIA",
-		"Estado": "ES",
-		"Horarios": [{
-			"Data": "12/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+			"Codigo": null,
+			"Dia": "2018-02-14T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		},
 		{
-			"Data": "13/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "14/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "15/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "16/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "17/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "18/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+			"Codigo": null,
+			"Dia": "2018-02-15T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		}]
 	},
 	{
-		"EnderecoCompleto": "AVENIDA CHAMPAGNAT, 777 - PRAIA DA COSTA - VILA VELHA/ES - 29101390",
-		"Ddd": "27",
-		"Telefone": "33290010",
-		"Localizacao": "http://maps.google.com/?q=AVENIDA CHAMPAGNAT 777 PRAIA DA COSTA VILA VELHA/ES 29101390",
-		"Latitude": -20.3372754,
-		"Longitude": -40.2830107,
-		"Distancia": 3838.7127728270148,
-		"Cep": "29101390",
-		"Logradouro": "AVENIDA CHAMPAGNAT",
-		"Numero": "777",
-		"Cidade": "VILA VELHA",
-		"Estado": "ES",
-		"Horarios": [{
-			"Data": "12/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+		"Codigo": null,
+		"Logradouro": "RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270",
+		"Latitude": "-20.3046115",
+		"Longitude": "-40.2949347",
+		"Agendas": [{
+			"Codigo": null,
+			"Dia": "2018-02-12T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		},
 		{
-			"Data": "13/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+			"Codigo": null,
+			"Dia": "2018-02-13T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		},
 		{
-			"Data": "14/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+			"Codigo": null,
+			"Dia": "2018-02-14T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		},
 		{
-			"Data": "15/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "16/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "17/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "18/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
+			"Codigo": null,
+			"Dia": "2018-02-15T00:00:00",
+			"Horarios": [{
+				"Codigo": null,
+				"Hora": "11:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "11:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:00"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:15"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:30"
+			},
+			{
+				"Codigo": null,
+				"Hora": "12:45"
+			},
+			{
+				"Codigo": null,
+				"Hora": "13:00"
+			}]
 		}]
-	}],
-	"Especialidades": [{
-		"Codigo": "44",
-		"Nome": "Ortopedia E Traumatologia"
-	}],
-	"Qualificacoes": [{
-		"Codigo": "E",
-		"Nome": "TITULO DE ESPECIALISTA"
-	}],
-	"RazaoSocial": "MARCELO STRAUCH SERAFIM"
-},
-{
-	"Codigo": "007466",
-	"Nome": "FABRICIO THOMASI MERLO",
-	"Enderecos": [{
-		"EnderecoCompleto": "AV HENRIQUE MOSCOSO, 531 - CENTRO DE VILA VELHA - VILA VELHA/ES - 29100020",
-		"Ddd": "27",
-		"Telefone": "33294180",
-		"Localizacao": "http://maps.google.com/?q=AV HENRIQUE MOSCOSO 531 CENTRO DE VILA VELHA VILA VELHA/ES 29100020",
-		"Latitude": -20.3351964,
-		"Longitude": -40.2900203,
-		"Distancia": 3429.17193501605,
-		"Cep": "29100020",
-		"Logradouro": "AV HENRIQUE MOSCOSO",
-		"Numero": "531",
-		"Cidade": "VILA VELHA",
-		"Estado": "ES",
-		"Horarios": [{
-			"Data": "12/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "13/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "14/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "15/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		}]
-	},
-	{
-		"EnderecoCompleto": "R EUGENIO NETTO, 300 - PRAIA DO CANTO - VITORIA/ES - 29055270",
-		"Ddd": "27",
-		"Telefone": "32258892",
-		"Localizacao": "http://maps.google.com/?q=R EUGENIO NETTO 300 PRAIA DO CANTO VITORIA/ES 29055270",
-		"Latitude": -20.304045,
-		"Longitude": -40.2957951,
-		"Distancia": 93.36128636266879,
-		"Cep": "29055270",
-		"Logradouro": "R EUGENIO NETTO",
-		"Numero": "300",
-		"Cidade": "VITORIA",
-		"Estado": "ES",
-		"Horarios": [{
-			"Data": "12/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "13/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		},
-		{
-			"Data": "14/03/2018",
-			"Horas": ["10:45",
-			"11:00",
-			"11:15",
-			"11:30",
-			"11:45",
-			"12:00",
-			"12:15",
-			"12:30",
-			"12:45",
-			"13:00",
-			"13:15",
-			"13:30",
-			"13:45",
-			"14:00",
-			"14:15",
-			"14:30"]
-		}]
-	}],
-	"Especialidades": [{
-		"Codigo": "44",
-		"Nome": "Ortopedia E Traumatologia"
-	}],
-	"Qualificacoes": [{
-		"Codigo": "E",
-		"Nome": "TITULO DE ESPECIALISTA"
-	}],
-	"RazaoSocial": "FABRICIO THOMASI MERLO"
+	}]
 }]
