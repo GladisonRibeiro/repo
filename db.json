@@ -1,4 +1,4 @@
-[{
+{"resultados": [{
 		"Prestador": {
 			"Codigo": "004909",
 			"Nome": "LUIZ FERNANDO MAZZINI GOMES"
@@ -692,4 +692,4 @@
 			}
 		]
 	}
-]
+]}
