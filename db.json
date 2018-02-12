@@ -375,22 +375,6 @@
 							{
 								"Codigo": null,
 								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					},
@@ -416,22 +400,6 @@
 							{
 								"Codigo": null,
 								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					},
@@ -457,22 +425,6 @@
 							{
 								"Codigo": null,
 								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					},
@@ -498,22 +450,6 @@
 							{
 								"Codigo": null,
 								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					}
@@ -542,26 +478,6 @@
 							{
 								"Codigo": null,
 								"Hora": "11:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					},
@@ -587,22 +503,6 @@
 							{
 								"Codigo": null,
 								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					},
@@ -620,30 +520,6 @@
 							{
 								"Codigo": null,
 								"Hora": "11:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "11:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					},
@@ -657,34 +533,6 @@
 							{
 								"Codigo": null,
 								"Hora": "11:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "11:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "11:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:00"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:15"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:30"
-							},
-							{
-								"Codigo": null,
-								"Hora": "12:45"
-							},
-							{
-								"Codigo": null,
-								"Hora": "13:00"
 							}
 						]
 					}
