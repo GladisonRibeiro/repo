@@ -10,12 +10,28 @@
 },
 {
     "Codigo": null,
+    "DataAgendada": "2018-02-13T10:00:00",
+    "NomePrestador": "LUIZ FELIPE LIMA",
+    "Beneficiario": "João da Silva",
+	"Especialidade": "CARDIOLOGIA",
+    "Status": "Realizada",
+    "Guia": "142536"
+},
+{
+    "Codigo": null,
+    "DataAgendada": "2018-02-12T10:00:00",
+    "NomePrestador": "LUIZ FELIPE LIMA",
+    "Beneficiario": "João da Silva",
+	"Especialidade": "CARDIOLOGIA",
+    "Status": "Cancelada"
+},
+{
+    "Codigo": null,
     "DataAgendada": "2018-02-12T10:00:00",
     "NomePrestador": "LUIZ FELIPE LIMA",
     "Beneficiario": "João da Silva",
 	"Especialidade": "CARDIOLOGIA",
     "Status": "Cancelada",
-    "Guia": "78797987987"
 }]
 ,"resultadosAgendadas": [{
     "Codigo": null,
