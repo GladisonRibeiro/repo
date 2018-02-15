@@ -6,7 +6,8 @@
     "Beneficiario": "João da Silva",
 	"Especialidade": "CARDIOLOGIA",
     "Status": "Realizada",
-    "Guia": "78797987987"
+    "Guia": "78797987987",
+	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
 },
 {
     "Codigo": null,
@@ -15,7 +16,8 @@
     "Beneficiario": "João da Silva",
 	"Especialidade": "CARDIOLOGIA",
     "Status": "Realizada",
-    "Guia": "142536"
+    "Guia": "142536",
+	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
 },
 {
     "Codigo": null,
@@ -23,19 +25,41 @@
     "NomePrestador": "LUIZ FELIPE LIMA",
     "Beneficiario": "João da Silva",
 	"Especialidade": "CARDIOLOGIA",
-    "Status": "Cancelada"
-},
-{
-    "Codigo": null,
-    "DataAgendada": "2018-02-12T10:00:00",
-    "NomePrestador": "LUIZ FELIPE LIMA",
-    "Beneficiario": "João da Silva",
-	"Especialidade": "CARDIOLOGIA",
-    "Status": "Cancelada"
+    "Status": "Cancelada",
+	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
 }]
 ,"resultadosAgendadas": [{
     "Codigo": null,
     "DataAgendada": "2018-02-12T10:00:00",
     "NomePrestador": "LUIZ FELIPE LIMA",
-	"Especialidade": "CARDIOLOGIA"
+	"Especialidade": "CARDIOLOGIA",
+    "Status": "AguardandoResposta",
+	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
+},
+{
+    "Codigo": null,
+    "DataAgendada": "2018-02-12T10:00:00",
+    "NomePrestador": "LUIZ FELIPE LIMA",
+    "Beneficiario": "João da Silva",
+	"Especialidade": "CARDIOLOGIA",
+    "Status": "Confirmada",
+	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
+},
+{
+    "Codigo": null,
+    "DataAgendada": "2018-02-12T10:00:00",
+    "NomePrestador": "LUIZ FELIPE LIMA",
+    "Beneficiario": "João da Silva",
+	"Especialidade": "CARDIOLOGIA",
+    "Status": "Confirmada",
+	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
+},
+{
+    "Codigo": null,
+    "DataAgendada": "2018-02-12T10:00:00",
+    "NomePrestador": "LUIZ FELIPE LIMA",
+    "Beneficiario": "João da Silva",
+	"Especialidade": "CARDIOLOGIA",
+    "Status": "AguardandoResposta",
+	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
 }]}
