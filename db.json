@@ -29,4 +29,5 @@
 	"Arquivo": "http://www.nimoz.pl/files/publications/4/loremipsum.pdf", 
 	"Extensao": "pdf"
 }
+,"CadastroUsuario": { "emailEnviado": true, "mensagem": "mensagem resposta" }
 }
