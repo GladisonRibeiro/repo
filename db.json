@@ -22,12 +22,5 @@
     "Status": "Cancelada",
 	"Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}
 }
-,"extrato": {
-	"Url" :"",
-	"Ano" : "2018", 
-	"Nome": "Teste PDF", 
-	"Arquivo": "http://www.nimoz.pl/files/publications/4/loremipsum.pdf", 
-	"Extensao": "pdf"
-}
 ,"CadastroUsuario": { "emailEnviado": true, "mensagem": "mensagem resposta" }
 }
