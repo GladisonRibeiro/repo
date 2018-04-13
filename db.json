@@ -13,5 +13,5 @@
 {"Codigo": "21","DataAgendada": "2018-02-12T10:00:00","NomePrestador": "LUIZ FELIPE LIMA","Beneficiario": "João da Silva","Especialidade": "CARDIOLOGIA","Status": "Confirmada","Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}},
 {"Codigo": "21","DataAgendada": "2018-03-15T17:00:00","NomePrestador": "LUIZ FELIPE LIMA","Beneficiario": "João da Silva","Especialidade": "CARDIOLOGIA","Status": "AguardandoResposta","Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}}]
 ,"consulta":{ "Codigo": "21", "DataAgendada": "2018-03-16T17:00:00", "NomePrestador": "LUIZ FELIPE LIMA", "Beneficiario": "João da Silva", "Especialidade": "CARDIOLOGIA", "Status": "Cancelada", "Endereco": {"Codigo":null,"Telefone":"2799999999","Logradouro":"RUA EUGENIO NETO, 180 - PRAIA DO CANTO - VITORIA/ES - 29055270","Latitude":"-20.3046115","Longitude":"-40.2949347"}}
-,"cadastroUsuario": { "emailEnviado": true, "mensagem": "mensagem resposta" }
+,"simples":{"cadastroUsuario": { "emailEnviado": true, "mensagem": "mensagem resposta" }, "suporteTecnico": "protocolo"}
 }
