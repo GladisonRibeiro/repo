@@ -8,5 +8,5 @@
 		"NomePrestador": "Laboratorio Pretti LTDA"
 	}]
 	,"totalExamesCooperado": { "Quantidade": "32", "ValorTotal":"1.987,56"}
-	,"detalheSolicitacao": {"CDSERVICO": "401079", "NOSERVICO": "Hemograma Completo", "SALDO": "29,90"}
+	,"detalheSolicitacao": {"CodigoServico": "401079", "NomeServico": "Hemograma Completo", "SALDO": "29,90"}
 }
