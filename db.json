@@ -1,3 +1,12 @@
 {
 	"validarLoginCpf": [{"data": "01/10/2018", "usuarios": [{ "nome": "Teste", "carteiras": ["00801166000021001", "00801166000021002", "00801166000021003"]}, { "nome": "Teste 2", "carteiras": ["00801166000021001", "00801166000021002", "00801166000021003"]}, { "nome": "Teste 3", "carteiras": ["00801166000021001", "00801166000021002", "00801166000021003"]}] }, {"data": "01/09/2017", "usuarios": [{ "nome": "Teste", "carteiras": ["00801166000021001", "00801166000021002", "00801166000021003"]}, { "nome": "Teste 2", "carteiras": ["00801166000021001", "00801166000021002", "00801166000021003"]}, { "nome": "Teste 3", "carteiras": ["00801166000021001", "00801166000021002", "00801166000021003"]}] } ]
+	,"examesCooperado": [{
+		"DataDigitacao": "2018-06-03T15:14:49.451Z",
+		"NomeSolicitante": "Fernanda Maria Zucolotto Freire",
+		"NomeEspecialidade": "Hemograma Completo",
+		"Guia": "40301583",
+		"NomePrestador": "Laboratorio Pretti LTDA"
+	}]
+	,"totalExamesCooperado": { "Quantidade": "32", "ValorTotal":"1.987,56"}
+	,"detalheSolicitacao": {"CDSERVICO": "401079", "NOSERVICO": "Hemograma Completo", "SALDO": "29,90"}
 }
