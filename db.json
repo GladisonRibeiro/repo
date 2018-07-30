@@ -12,7 +12,7 @@
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
-		"id": 1,
+		"id": 2,
 		"titulo": "Produtos",
 		"icone": "fa-files-o",
 		"nrOrdem": 0,
@@ -24,7 +24,7 @@
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
-		"id": 1,
+		"id": 3,
 		"titulo": "Beneficiários",
 		"icone": "fa-users",
 		"nrOrdem": 0,
@@ -36,7 +36,7 @@
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
-		"id": 1,
+		"id": 4,
 		"titulo": "Prestadores",
 		"icone": "fa-user-md",
 		"nrOrdem": 0,
@@ -48,7 +48,7 @@
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
-		"id": 1,
+		"id": 5,
 		"titulo": "Intercâmbio",
 		"icone": "fa-arrows",
 		"nrOrdem": 0,
@@ -60,7 +60,7 @@
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
-		"id": 1,
+		"id": 6,
 		"titulo": "Produção Médica",
 		"icone": "fa-clipboard",
 		"nrOrdem": 0,
@@ -72,7 +72,7 @@
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
-		"id": 1,
+		"id": 7,
 		"titulo": "Autorização",
 		"icone": "fa-lock",
 		"nrOrdem": 0,
@@ -84,7 +84,7 @@
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
-		"id": 1,
+		"id": 8,
 		"titulo": "Ressarcimento ao SUS",
 		"icone": "fa-heartbeat",
 		"nrOrdem": 0,
