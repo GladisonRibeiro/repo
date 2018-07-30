@@ -5,10 +5,10 @@
 		"icone": "fa-terminal",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#00995D",
+		"corIcone": "#FFFFFF",
 		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
-		"corFundoPagina": "#00995D",
+		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
@@ -28,11 +28,11 @@
 		"titulo": "Beneficiários",
 		"icone": "fa-users",
 		"nrOrdem": 0,
-		"corFundoIcone": "#00995D",
+		"corFundoIcone": "#0D2240",
 		"corIcone": "#FFFFFF",
 		"abertura": "Bem-vindo à Central de Ajuda do Beneficiários",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
-		"corFundoPagina": "#00995D",
+		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
@@ -52,11 +52,11 @@
 		"titulo": "Intercâmbio",
 		"icone": "fa-arrows",
 		"nrOrdem": 0,
-		"corFundoIcone": "#00995D",
+		"corFundoIcone": "#0D2240",
 		"corIcone": "#FFFFFF",
 		"abertura": "Bem-vindo à Central de Ajuda do Intercâmbio",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
-		"corFundoPagina": "#00995D",
+		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
