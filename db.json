@@ -5,7 +5,11 @@
 		"icone": "fa-terminal",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
 		"id": 1,
@@ -13,7 +17,11 @@
 		"icone": "fa-files-o",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
 		"id": 1,
@@ -21,7 +29,11 @@
 		"icone": "fa-users",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
 		"id": 1,
@@ -29,7 +41,11 @@
 		"icone": "fa-user-md",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
 		"id": 1,
@@ -37,7 +53,11 @@
 		"icone": "fa-arrows",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
 		"id": 1,
@@ -45,7 +65,11 @@
 		"icone": "fa-clipboard",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
 		"id": 1,
@@ -53,7 +77,11 @@
 		"icone": "fa-lock",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	{
 		"id": 1,
@@ -61,26 +89,17 @@
 		"icone": "fa-heartbeat",
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
-		"corIcone": "#FFFFFF"
+		"corIcone": "#FFFFFF",
+		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"placeholderBusca": "O que você gostaria de aprender hoje?",
+		"corFundoPagina": "#FFFFFF",
+		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	}],
 	"configHome": {
 		"corFundo": "#FFFFFF",
 		"abertura": "Bem-vindo à Central de Ajuda do NucleOS",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png",
 		"placeholderBusca": "O que você gostaria de aprender hoje?"
-	},
-	"secao": {
-		"id": 1,
-		"status": true,
-		"titulo": "Entrada de Dados",
-		"nrOrdem": 0,
-		"corFundoIcone": "#0D2240",
-		"icone": "fa-terminal",
-		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
-		"placeholderBusca": "O que você gostaria de aprender hoje?",
-		"corFundoPagina": "#FFFFFF",
-		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
 	},
 	"conteudos": [{
 		"id": 1,
@@ -162,16 +181,5 @@
 		"nrOrdemDestaque": 0,
 		"imagemDestaque": "http://via.placeholder.com/1920x1080",
 		"linkVideo": ""
-	}],
-	"conteudo": {
-		"id": 1,
-		"status": true,
-		"titulo": "Treinamento Módulo Entrada de Dados",
-		"descricao": "",
-		"nrOrdemDestaque": 1,
-		"imagemDestaque": "",
-		"linkVideo": "",
-		"imagemConteudo": "http://via.placeholder.com/1920x1080",
-		"conteudo": "<p style=\"text-align: center;\">LoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsumLoremipsum</p>"
-	}
+	}]
 }
