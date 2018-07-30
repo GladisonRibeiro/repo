@@ -181,5 +181,12 @@
 		"nrOrdemDestaque": 0,
 		"imagemDestaque": "http://via.placeholder.com/1920x1080",
 		"linkVideo": ""
+	}],
+	"tenants": [{
+		"id": "unimedvitoria",
+		"nome": "Unimed Vitória",
+		"codigo": "",
+		"identificadorUnico": "unimedvitoria",
+		"logoUrl": "../assets/imgs/unimed-vix-central-ajuda-logotipo.png"
 	}]
 }
