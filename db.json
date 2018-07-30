@@ -18,7 +18,7 @@
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
 		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"abertura": "Bem-vindo à Central de Ajuda do Produtos",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
 		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
@@ -30,7 +30,7 @@
 		"nrOrdem": 0,
 		"corFundoIcone": "#00995D",
 		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"abertura": "Bem-vindo à Central de Ajuda do Beneficiários",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
 		"corFundoPagina": "#00995D",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
@@ -42,7 +42,7 @@
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
 		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"abertura": "Bem-vindo à Central de Ajuda do Prestadores",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
 		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
@@ -54,7 +54,7 @@
 		"nrOrdem": 0,
 		"corFundoIcone": "#00995D",
 		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"abertura": "Bem-vindo à Central de Ajuda do Intercâmbio",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
 		"corFundoPagina": "#00995D",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
@@ -66,7 +66,7 @@
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
 		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"abertura": "Bem-vindo à Central de Ajuda do Produção Médica",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
 		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
@@ -78,7 +78,7 @@
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
 		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"abertura": "Bem-vindo à Central de Ajuda do Autorização",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
 		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
@@ -90,7 +90,7 @@
 		"nrOrdem": 0,
 		"corFundoIcone": "#0D2240",
 		"corIcone": "#FFFFFF",
-		"abertura": "Bem-vindo à Central de Ajuda do Entrada de Dados",
+		"abertura": "Bem-vindo à Central de Ajuda do Ressarcimento ao SUS",
 		"placeholderBusca": "O que você gostaria de aprender hoje?",
 		"corFundoPagina": "#FFFFFF",
 		"imagem": "../assets/imgs/central-ajuda-img-destaque.png"
